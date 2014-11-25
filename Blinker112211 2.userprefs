@@ -1,0 +1,21 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Standard Assets/Character Controllers/Sources/Scripts/ThirdPersonController.js">
+    <Files>
+      <File FileName="Assets/Scripts/GameScripts/PortalLauncher.cs" Line="101" Column="5" />
+      <File FileName="Assets/Scripts/GameScripts/RocketLauncher.cs" Line="18" Column="18" />
+      <File FileName="Assets/Scripts/GameScripts/PortalControl.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GameScripts/HookGunScript.cs" Line="47" Column="36" />
+      <File FileName="Assets/Scripts/GameScripts/GameTime.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GameScripts/GameSetup.cs" Line="123" Column="1" />
+      <File FileName="Assets/Export_2/ScoreScript.cs" Line="158" Column="15" />
+      <File FileName="Assets/Standard Assets/Character Controllers/Sources/Scripts/ThirdPersonController.js" Line="345" Column="55" />
+      <File FileName="Assets/Standard Assets/Character Controllers/Sources/Scripts/FPSInputController.js" Line="36" Column="53" />
+      <File FileName="Assets/Standard Assets/Character Controllers/Sources/Scripts/CharacterMotor.js" Line="12" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

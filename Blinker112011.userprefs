@@ -1,0 +1,56 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GameScripts\HookScript.cs">
+    <Files>
+      <File FileName="Assets\Scripts\GameScripts\PlayerWeapons.cs" Line="23" Column="28" />
+      <File FileName="Assets\Scripts\GameScripts\PlayerHookControl.cs" Line="15" Column="3" />
+      <File FileName="Assets\Scripts\GameScripts\HookGunScript.cs" Line="45" Column="1" />
+      <File FileName="Assets\Scripts\GameScripts\HookScript.cs" Line="38" Column="2" />
+      <File FileName="Assets\Scripts\GameScripts\PlayerScript.cs" Line="28" Column="29" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Assembly-CSharp" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="GameScripts" expanded="True">
+                  <Node name="HookScript.cs" selected="True" />
+                </Node>
+                <Node name="Photon Networking" expanded="True">
+                  <Node name="Menu" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+          <Node name="Assembly-CSharp-firstpass" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Standard Assets" expanded="True">
+                <Node name="Character Controllers" expanded="True">
+                  <Node name="Sources" expanded="True">
+                    <Node name="Scripts" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+          <Node name="Assembly-UnityScript-firstpass" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Standard Assets" expanded="True">
+                <Node name="Character Controllers" expanded="True">
+                  <Node name="Sources" expanded="True">
+                    <Node name="Scripts" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
